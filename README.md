@@ -154,6 +154,7 @@ Based on model performance:
 - scikit-learn
 - imbalanced-learn (SMOTE)
 - matplotlib, seaborn
+- MS PowerPoint (Non-Technical Presentation)
 
 ---
 

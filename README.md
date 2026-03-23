@@ -138,7 +138,7 @@ Based on model performance:
 ```
 ├── README.md
 ├── images                           # Images of the visualizations
-|    └── 
+|    └── images
 ├── syriatel_churn_analysis.ipynb    # Main analysis notebook
 ├── data/
 │   └── bigml_59c28831336c6604c800002a.csv
